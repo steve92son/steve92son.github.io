@@ -1,6 +1,6 @@
 title:              Bluewolf Update History
-email:              your-email@example.com
-description:        블루울프 업데이트 내역입니다.
+email:              sangmosoft@gmail.com
+description:        
 author:             sangmosoft
 baseurl:            ""
 url:                "https://steve92son.github.io"
@@ -17,7 +17,7 @@ google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 
 # Build settings
 markdown:           kramdown
-paginate:           5
+paginate:           3
 paginate_path:      "/posts/page:num/"
 plugins:
   - jekyll-feed
@@ -26,3 +26,6 @@ plugins:
 
 # theme: jekyll-theme-clean-blog
 remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
+
+logo: '/img/logo.png'
+default_background: '/img/bg-default.jpg'
