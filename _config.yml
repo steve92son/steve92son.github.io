@@ -2,7 +2,7 @@ title:              Bluewolf Update History
 email:              your-email@example.com
 description:        블루울프 업데이트 내역입니다.
 author:             sangmosoft
-baseurl:            "/bluewolf"
+baseurl:            ""
 url:                "https://steve92son.github.io"
 
 # Social Profiles
